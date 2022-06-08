@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.0.4"
+  export = ["june8_byor_1"]
+  name = "june8_byor_1"
+  org = "isurupiyarathnarucji"
+
